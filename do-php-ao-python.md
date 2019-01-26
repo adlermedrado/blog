@@ -260,4 +260,6 @@ Quando comecei trabalhar no Olist eu era um Desenvolvedor Sênior PHP e agora eu
 
 E estou achando isso muito legal.
 
+_Publicado Originalmente em 2018-06-08_
+
 Tags: php, python 
