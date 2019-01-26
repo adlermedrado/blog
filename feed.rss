@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>blog // ~amedrado</title><link>https://blog.adlermedrado.com.br/index.html</link>
+<description>thoughts and rants from an grumpy old man</description><language>en</language>
+<lastBuildDate>Sat, 26 Jan 2019 11:54:03 -0200</lastBuildDate>
+<pubDate>Sat, 26 Jan 2019 11:54:03 -0200</pubDate>
+<atom:link href="https://blog.adlermedrado.com.br/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Posts antigos restaurados
+</title><description><![CDATA[
+
+<p>É muito legal ser programador e participar de projetos com as mais variadas dimensões e complexidades, mas uma das coisas que eu acho mais legal em ser um programador é o fato de poder utilizar este conhecimento para automatizar tarefas e resolver problemas do cotidiano.</p>
+
+<hr />
+]]></description><link>https://blog.adlermedrado.com.br/posts-antigos-restaurados.html</link>
+<guid>https://blog.adlermedrado.com.br/./posts-antigos-restaurados.html</guid>
+<dc:creator>amedrado</dc:creator>
+<pubDate>Fri, 25 Jan 2019 22:03:14 -0200</pubDate></item>
+<item><title>
+Do PHP ao Python
+</title><description><![CDATA[
+
+<p>Um pouco da minha experiência na transição de PHP para Python</p>
+
+<hr />
+]]></description><link>https://blog.adlermedrado.com.br/do-php-ao-python.html</link>
+<guid>https://blog.adlermedrado.com.br/./do-php-ao-python.html</guid>
+<dc:creator>amedrado</dc:creator>
+<pubDate>Fri, 25 Jan 2019 22:01:22 -0200</pubDate></item>
+<item><title>
+Home-Office significa trabalhar de cueca?
+</title><description><![CDATA[
+
+<p>Ah, o home-office: Muita gente pensa que trabalhar nessa modalidade significa trabalhar a hora que quiser, de cueca e meias, tomando cerveja e que quando cansa pode dar uma paradinha pra ir caminhar na praia, parque ou qualquer outro ambiente agradável.</p>
+
+<hr />
+]]></description><link>https://blog.adlermedrado.com.br/home-office-significa-trabalhar-de-cueca.html</link>
+<guid>https://blog.adlermedrado.com.br/./home-office-significa-trabalhar-de-cueca.html</guid>
+<dc:creator>amedrado</dc:creator>
+<pubDate>Fri, 25 Jan 2019 21:59:06 -0200</pubDate></item>
+<item><title>
+Segurança ou sensação de segurança?
+</title><description><![CDATA[
+
+<p>Hoje eu contratei o serviço de uma empresa que disponibiliza um vigilante para <br />
+circular de moto ou carro (depende do frio) durante a noite, todos os dias da <br />
+semana para <em>ficar de olho</em> em relação a suspeitos na vizinhança, auxiliar e <br />
+verificar se está tudo tranquilo ao sair de casa ou chegar com carro a noite, <br />
+etc., principalmente porque eu sempre viajo pra visitar meus sogros, <br />
+mãe e irmãs que não moram na mesma cidade que eu e isso me deixa com uma <br />
+sensação melhor ao deixar minha casa sozinha.</p>
+
+<hr />
+]]></description><link>https://blog.adlermedrado.com.br/seguranca-ou-sensacao-de-seguranca.html</link>
+<guid>https://blog.adlermedrado.com.br/./seguranca-ou-sensacao-de-seguranca.html</guid>
+<dc:creator>amedrado</dc:creator>
+<pubDate>Fri, 25 Jan 2019 21:51:50 -0200</pubDate></item>
+<item><title>
+Não execute comandos a esmo. Escreva-os.
+</title><description><![CDATA[
+
+<p><strong>Eu sempre fui um cara afobado,</strong> então sempre quando precisava executar um <br />
+comando em um servidor por exemplo, eu simplesmente o executava e se alguns dias, <br />
+semanas ou meses depois eu precisasse executa-lo novamente eu me pegava tentando <br />
+me lembrar como que tinha feito da outra vez.</p>
+
+<hr />
+]]></description><link>https://blog.adlermedrado.com.br/nao-execute-comandos-a-esmo-escreva-os.html</link>
+<guid>https://blog.adlermedrado.com.br/./nao-execute-comandos-a-esmo-escreva-os.html</guid>
+<dc:creator>amedrado</dc:creator>
+<pubDate>Fri, 25 Jan 2019 21:46:07 -0200</pubDate></item>
+</channel></rss>
