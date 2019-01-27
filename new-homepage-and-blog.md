@@ -1,14 +1,18 @@
 New homepage and blog
 
-The Web is a piece of crap nowadays, big corps want to track you at all costs, 
-offering convenience they slave us.
+The Web is a piece of crap nowadays, big corps want to track you at all costs 
+and decide what we view, they determine what we should see, read, say, etc.
+
+Offering convenience they slave us.
+
+---
 
 I'm trying to leave this world, so I made a new [homepage][1] and [blog][2], with no 
 trackers, no analytics, no bullshit. 
 Only HTML, CSS, a minimum of Javascript, Gopher and content for those who can 
 be interested.
 
-Step by step I'll be starting, first of all the social media.
+Step by step I'll get out, first of all the social media.
 
 I really am disappointed when I see people referring to Google and Facebook as
 if they were the internet, when in fact they are the ones who are killing the web.
@@ -16,7 +20,7 @@ if they were the internet, when in fact they are the ones who are killing the we
 Some days ago I've found the anti-social-media manifesto at gopher, written 
 by a member called *papa* and I'll reproduce it below:
 
-Antisocial Media Manifesto by papa
+**Antisocial Media Manifesto by papa**
 
 Version 1
 
@@ -33,7 +37,8 @@ reedom of choice.
 
 5. The process is never-ending. There is no permanent safe haven for us in this world.
 
-[1]: https://adlermedrado.com.br
-[2]: https://blog.adlermedrado.com.br
 
 Tags: web, manifesto, gopher, privacy
+
+[1]: https://adlermedrado.com.br
+[2]: https://blog.adlermedrado.com.br
