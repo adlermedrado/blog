@@ -2,9 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>blog // ~amedrado</title><link>https://blog.adlermedrado.com.br/index.html</link>
 <description>thoughts and rants from an grumpy old man</description><language>en</language>
-<lastBuildDate>Sat, 26 Jan 2019 12:48:10 -0200</lastBuildDate>
-<pubDate>Sat, 26 Jan 2019 12:48:10 -0200</pubDate>
+<lastBuildDate>Sun, 27 Jan 2019 13:25:52 -0200</lastBuildDate>
+<pubDate>Sun, 27 Jan 2019 13:25:52 -0200</pubDate>
 <atom:link href="https://blog.adlermedrado.com.br/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+New homepage and blog
+</title><description><![CDATA[
+
+<p>The Web is a piece of crap nowadays, big corps want to track you at all costs, 
+offering convenience they slave us.</p>
+
+<p>I'm trying to leave this world, so I made a new <a href="https://adlermedrado.com.br">homepage</a> and <a href="https://blog.adlermedrado.com.br">blog</a>, with no 
+trackers, no analytics, no bullshit. 
+Only HTML, CSS, a minimum of Javascript, Gopher and content for those who can 
+be interested.</p>
+
+<p>Step by step I'll be starting, first of all the social media.</p>
+
+<p>I really am disappointed when I see people referring to Google and Facebook as
+if they were the internet, when in fact they are the ones who are killing the web.</p>
+
+<p>Some days ago I've found the anti-social-media manifesto at gopher, written 
+by a member called <em>papa</em> and I'll reproduce it below:</p>
+
+<p>Antisocial Media Manifesto by papa</p>
+
+<p>Version 1</p>
+
+<ol>
+<li><p>Large social media systems have too much power over what content we view and how we
+interact with others over the Internet.</p></li>
+<li><p>They have this power because we users have freely given it to them in exchange for
+convenience.</p></li>
+<li><p>By granting so much power to others, we risk losing our freedom of expression and f
+reedom of choice.</p></li>
+<li><p>We can reclaim our freedom by exercising it.</p></li>
+<li><p>The process is never-ending. There is no permanent safe haven for us in this world.</p></li>
+</ol>
+
+<p>Tags: <a href='tag_web.html'>web</a>, <a href='tag_manifesto.html'>manifesto</a>, <a href='tag_gopher.html'>gopher</a>, <a href='tag_privacy.html'>privacy</a></p>
+<!-- text end -->
+]]></description><link>https://blog.adlermedrado.com.br/new-homepage-and-blog.html</link>
+<guid>https://blog.adlermedrado.com.br/./new-homepage-and-blog.html</guid>
+<dc:creator>amedrado</dc:creator>
+<pubDate>Sun, 27 Jan 2019 13:23:43 -0200</pubDate></item>
 <item><title>
 Posts antigos restaurados
 </title><description><![CDATA[
