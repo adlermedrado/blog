@@ -1,7 +1,7 @@
 New homepage and blog
 
 The Web is a piece of crap nowadays, big corps want to track you at all costs 
-and decide what we view, they determine what we should see, read, say, etc.
+and decide what we view, read, say, etc.
 
 Offering convenience they slave us.
 
